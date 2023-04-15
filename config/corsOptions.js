@@ -3,7 +3,8 @@
 const allowedOrigins = [
     'http://localhost:3000',
     'http://localhost:5000',
-    'https://guvi-hackathon2-vaishak.netlify.app'
+    'https://guvi-hackathon2-vaishak.netlify.app',
+    'https://bookmyshow-frontend-ipj7.onrender.com',
 
 ]
 
